@@ -1,15 +1,15 @@
 # Dec2Bin Android app
-Este aplicativo simplesmente converte números decimais para números binários.
+This android app simply converts decimal numbers to binary.
 
 <img src="/dec2bin.png" width="500" height="500">
 
-### Como usar
-Apenas insira um número decimal inteiro positivo (ex.: 132) e pressione o botão para converter o número para binário.
+### How to use
+Put a positive integer decimal number (ex.: 132) then press the convert button to get the result.
 
-### Recursos
-Possibilidade de copiar o número binário que foi calculado.
+### Features
+Hold over the binary output number to show the copy option menu.
 
-### Requisitos
-Mínimo: Android 7.0 (Nougat)
+### Requirements
+Minimum: Android 7.0 (Nougat)
 
-Testado em: Android 14
+Tested on: Android 14
