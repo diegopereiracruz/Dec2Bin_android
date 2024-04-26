@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dec2Bin</string>
+    <string name="main_appSubtitle">Decimal to Binary convertion</string>
+    <string name="main_decimalInput">Decimal number</string>
+    <string name="main_binaryOutput">Result in binary here</string>
+    <string name="main_convertButton">Convert to binary</string>
+</resources>
